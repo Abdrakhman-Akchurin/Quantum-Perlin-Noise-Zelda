@@ -1,5 +1,16 @@
 Zelda-like game with Quantum Perlin Noise generated terrain.
 
+To generate the map, run "create_map.py" file. To look at the map generated, go to "graphics/tilemap/ground.png'. Code generates uses Quantum Perlin Noise by default.
+You can change one of the parameters to 'simplex' to create terrain classically. 
+
+To run the game, run "main.py". You will be spawned in the middle of the map with randomly spawned objects and entities. 
+
+The controls:
+SPACE - attack with a knife
+arrows on keyboard - movement
+M - menu
+CTRL - magic
+
 You can use the code for any project you like, including commercial ones. Attributions would be appreciated but are not required. 
 
 The art assets and the soundtrack have been done by Pixel-boy and AAA and can be found here: https://pixel-boy.itch.io/ninja-adventure-asset-pack
